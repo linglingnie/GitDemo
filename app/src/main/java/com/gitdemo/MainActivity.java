@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("TAG","aslkjdgl;kasjdglk");
         Log.e("TAG","aslkjdgl;kasjdglk");Log.e("TAG","aslkjdgl;kasjdglk");
-        Log.e("TAG","aslkjdgl;kasjdglk");
+
 
 
     }
